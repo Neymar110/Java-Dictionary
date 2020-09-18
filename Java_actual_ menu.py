@@ -1,6 +1,11 @@
 java_dictionary = {
+<<<<<<< HEAD
     "Frui t Salad" : 380,
     "Fruit Salad (with yogurt honey and nuts)" : 490,
+=======
+    "Fruit Salad" : 380,
+    " Fruit Salad (with yogurt honey and nuts)" : 490,
+>>>>>>> ac060ae477b68ed60d018dde0f42831e2c98538b
     "Hot Oatmeal Porridge (with milk or yogurt and choice of honey or strawberries)" : 440,
     "Homemade Granola" : 500,
     "French Toast | Choc Chip, Strawberry Chocolate, Choco Banana" : 550,
